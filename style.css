@@ -1,0 +1,17 @@
+.container {
+  display: grid;
+  height: 689px;
+  width: 213px;
+  background-color: aquamarine;
+  margin: 70px auto;
+  border-radius: 30px;
+  justify-items: center;
+}
+
+.speaker {
+  background-color: black;
+  margin-top: 23px;
+  border-radius: 16px;
+  height: 5px;
+  width: 15px;
+}
